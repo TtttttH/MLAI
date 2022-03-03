@@ -1,1 +1,1 @@
-# MLAI code for COM6024 of Data Analytcs MSC 
+# MLAI code for COM6509 of Data Analytcs MSC 
